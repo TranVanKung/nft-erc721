@@ -1,0 +1,27 @@
+{
+  "name": "Team congtv7",
+  "description": "This is my team",
+  "image": "https://ipfs.io/ipfs/QmQAZ7jVZzXL7bUY4TegHGEyzArHajwnRDzqd2H773cBb7",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "control",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "nitro",
+      "value": 2,
+      "max_value": 10
+    }
+  ]
+}
